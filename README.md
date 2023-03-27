@@ -20,3 +20,4 @@ Comparision chart (On the basis of Kappa Values)
 
 ![image](https://user-images.githubusercontent.com/111830763/228033493-2195b743-1030-4a08-8a21-07d07a43a04e.png)
 
+From comparison table of all model test metrics, Bagging is the top performer followed by Random Forest and Neural Net.
